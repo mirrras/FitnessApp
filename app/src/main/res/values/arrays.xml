@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercise">
+        <item>Relax|30|relax.gif</item> <!-- 0 -->
+
+        <item>Squats|x15|приседания.gif</item> <!-- 1 -->
+        <item>Back lunges with hip lift|x15|выпады-назад-с-подъемом-бедра-1.gif</item> <!-- 2 -->
+        <item>Side step squats|x15|шаги-в-сторону-в-полуприседе.gif</item> <!-- 3 -->
+        <item>Glute Bridge|30|ягодичный-мостик.gif</item> <!-- 4 -->
+        <item>Relax|15|relax.gif</item> <!-- 5 -->
+        <item>Squats with twist|x15|присед-с-поворотом-корпуса.gif</item> <!-- 6 -->
+        <item>Plie dumbbells squats |x12|приседание-плие-с-гантелями.gif</item> <!-- 7 -->
+
+        <item>Crunches|x10|скручивания.gif</item> <!-- 8 -->
+        <item>Half wipers|x15|маятник-ногами.gif</item> <!-- 9 -->
+        <item>Knee crunches|x10|книжка-2.gif</item> <!-- 10 -->
+        <item>Plank lift|30|планка-со-сменой-положения-рук.gif</item> <!-- 11 -->
+        <item>Leg raises|x15|подъем-ног-лежа-с-разведением.gif</item> <!-- 12 -->
+        <item>Inchworm|x15|червяк-классик.gif</item> <!-- 13 -->
+        <item>Bicycle|30|велосипед.gif</item> <!-- 14 -->
+
+        <item>Push-up to side kick|x12|кик-отжимания.gif</item> <!-- 15 -->
+        <item>Push-ups|x12|отжимания-классик.gif</item> <!-- 16 -->
+        <item>Archer push-ups|x12|отжимания-лучника.gif</item> <!-- 17 -->
+        <item>Knee push-ups|x12|отж-с-колен.gif</item> <!-- 18 -->
+        <item>Spiderman push-ups|x10|отжимания-с-подносом-колена.gif</item> <!-- 19 -->
+        <item>Dumbbell Incline Breeding|x10|разведение-гантелей-лёжа.gif</item> <!-- 20 -->
+        <item>Dumbbell bench press|x10|жим-гантелей-лёжа-1.gif</item> <!-- 21 -->
+
+        <item>Reverse push-ups|x15|отжимания-спиной-к-скамье.gif</item> <!-- 22 -->
+        <item>Dumbbell french press|x15|французкий-жим-с-гантелей-сидя.gif</item> <!-- 23 -->
+        <item>Dumbbell supinated biceps curl|x12|подъём-гантелей-на-бицепс-с-супинацией.gif</item> <!-- 24 -->
+        <item>Dumbbell hammer curl|x12|молоток-с-гантелями.gif</item> <!-- 25 -->
+        <item>Narrow push-ups|x15|отж-узкие.gif</item> <!-- 26 -->
+        <item>Chin-ups|x10|Подтягивания-обратным-хватом.gif</item> <!-- 27 -->
+        <item>Neutral grip pull-usp|x10|Подтягивания-параллельным-хватом.gif</item> <!-- 28 -->
+
+        <item>Back extensions|30|пловец-лежа-на-животе.gif</item> <!-- 29 -->
+        <item>Decline push-ups|x15|армейские-отжимания.gif</item> <!-- 30 -->
+        <item>Dumbbell bent-over row|x15|тяга-гантелей-в-наклоне.gif</item> <!-- 31 -->
+        <item>Dumbbell row|x15|тяга-гантелей-к-поясу-в-упоре.gif</item> <!-- 32 -->
+        <item>Wide grip pull-ups|x10|Подтягивания-широким-хватом.gif</item> <!-- 33 -->
+
+
+    </string-array>
+    <string-array name="day_exercise">
+        <item>1,0,3,0,6,0,30,0,17,0,11,0,8,0,9</item> <!-- Day 1 -->
+        <item>15,0,17,0,19,0,22,0,26,0,10,0,11</item> <!-- Day 2 -->
+        <item>33,0,31,0,33,0,27,0,24,0,25,0,12,0,14</item> <!-- Day 3 -->
+        <item>2,0,4,0,7,0,30,0,17,0,11,0,8,0,9</item> <!-- Day 4 -->
+        <item>16,0,18,0,19,0,26,0,23,0,10,0,11</item> <!-- Day 5 -->
+        <item>31,0,32,0,33,0,28,0,25,0,12,0,14</item> <!-- Day 6 -->
+        <item>1,0,3,0,7,0,13,0,17,0,11,0,8,0,14</item> <!-- Day 7 -->
+        <item>15,0,16,0,17,0,22,0,23,0,26,09,0,12</item> <!-- Day 8 -->
+        <item>29,0,31,0,32,0,24,0,25,0,10,0,11</item> <!-- Day 9 -->
+        <item>2,0,3,0,6,0,11,0,17,0,13,0,8,0,11</item> <!-- Day 10 -->
+        <item>18,0,19,0,17,0,22,0,23,0,26,0,9,0,14</item> <!-- Day 11 -->
+        <item>31,0,32,0,33,0,25,0,27,0,10,0,12</item> <!-- Day 12 -->
+        <item>1,0,2,0,6,0,11,0,17,0,30,0,8,0,10</item> <!-- Day 13 -->
+        <item>20,0,21,0,17,0,15,0,23,0,9,0,14</item> <!-- Day 14 -->
+        <item>29,0,31,0,32,0,24,0,25,0,10,0,12</item> <!-- Day 15 -->
+        <item>1,0,3,0,2,0,13,0,17,0,11,0,8,0,9,0,10</item> <!-- Day 16 -->
+        <item>15,0,16,0,17,0,18,0,23,0,11,0,12,0,14</item> <!-- Day 17 -->
+        <item>31,0,33,0,29,0,24,0,25,0,27,0,8,0,10,0,12</item> <!-- Day 18 -->
+        <item>7,0,3,0,6,0,30,0,13,0,17,0,9,0,11,0,14</item> <!-- Day 19 -->
+        <item>15,0,19,0,16,0,17,0,22,0,26,0,8,0,9,0,11</item> <!-- Day 20 -->
+        <item>29,0,31,0,32,0,24,0,25,0,28,0,10,0,12,0,14</item> <!-- Day 21 -->
+        <item>1,0,7,0,6,0,30,0,17,0,11,0,8,0,9,0,10</item> <!-- Day 22 -->
+        <item>15,0,16,0,17,0,22,0,23,0,17,0,11,0,12,0,14</item> <!-- Day 23 -->
+        <item>29,0,33,0,22,0,25,0,27,0,28,0,10,0,8,0,14</item> <!-- Day 24 -->
+        <item>2,0,7,0,6,0,17,0,17,0,30,0,12,0,11,0,9</item> <!-- Day 25 -->
+        <item>17,0,18,0,19,0,22,0,23,0,26,0,8,0,9</item> <!-- Day 26 -->
+        <item>31,0,33,0,32,0,27,0,28,0,10,0,11</item> <!-- Day 27 -->
+        <item>2,0,3,0,6,0,11,0,17,0,13,0,12,0,14</item> <!-- Day 28 -->
+        <item>16,0,19,0,18,0,15,0,23,0,8,0,9,0,10</item> <!-- Day 29 -->
+        <item>29,0,31,0,32,0,33,0,24,0,25,0,28,0,14,0,12,0,11</item> <!-- Day 30 -->
+    </string-array>
+</resources>

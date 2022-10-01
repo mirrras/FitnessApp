@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FitnessApp</string>
+    <string name="slogan">Way to perfection!</string>
+    <string name="day">Day:</string>
+    <string name="exercise">Exercises</string>
+    <string name="waiting_message">Starts in:</string>
+    <string name="start">Start</string>
+    <string name="next">Next</string>
+    <string name="done">Done</string>
+    <string name="days">Training days</string>
+    <string name="exercises">Exercises</string>
+    <string name="waiting">Wait</string>
+    <string name="rest">left</string>
+    <string name="left">: days</string>
+    <string name="reset">Reset</string>
+
+</resources>
